@@ -24,7 +24,7 @@ A collection of Python and JavaScript scripts I've written for various projects 
 
 ### Data Integration and API
 
-- **[neon_crm_airtable_sync.js](javascript/api_integration/neon_crm_airtable_sync.js)**: Interacts with NeonCRM's API to retrieve membership data and update an Airtable database. Shows skills with API authentication, data transformation, and external service integration.
+- **[neon_crm_airtable_sync.js](javascript/api_integration/neon_crm_airtable_sync.js)**: Interacts with NeonCRM's API v1 to retrieve membership data and update an Airtable database. Shows skills with API authentication, data transformation, and external service integration.
 
 ### Conflict Resolution Logic
 
@@ -33,9 +33,9 @@ A collection of Python and JavaScript scripts I've written for various projects 
 ## Skills Demonstrated
 
 - **Python**: File I/O, HTTP requests, image processing, input validation, web servers
-- **JavaScript**: API integration, date manipulation, conflict detection algorithms
+- **JavaScript**: API integration, conflict detection algorithm
 - **General Programming**: Error handling, data transformation, modular code organization
-- **Tools & Libraries**: Pillow (PIL), requests, re (regex), http.server, Airtable API
+- **Tools & Libraries**:  http.server, http, NeonCRM API, OS, Pillow (PIL), requests, re (regex), sys, socket, socketserver
 
 ## About These Scripts
 

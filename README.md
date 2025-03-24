@@ -28,7 +28,7 @@ A collection of Python and JavaScript scripts I've written for various projects 
 
 ### Conflict Resolution Logic
 
-- **[reservation_conflict_checker.js](javascript/conflict_resolution/reservation_conflict_checker.js)**: Checks for conflicts in a reservation system to prevent double-booking of assets. Demonstrates complex conditional logic, date/time handling, and data manipulation.
+- **[reservation_conflict_checker.js](javascript/conflict_detection/reservation_conflict_checker.js)**: Checks for conflicts in a reservation system to prevent double-booking of assets. Demonstrates complex conditional logic, date/time handling, and data manipulation.
 
 ## Skills Demonstrated
 
